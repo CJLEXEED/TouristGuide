@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- Green -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Darker Green -->
+    <color name="colorAccent">#FF4081</color> <!-- Pink -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+    <color name="colorText">#212121</color> <!-- Dark Grey -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorOnBackground">#000000</color> <!-- Black -->
+</resources>

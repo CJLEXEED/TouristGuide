@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.TouristGuide" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:buttonStyle">@style/CustomButtonStyle</item>
+        <item name="android:editTextStyle">@style/CustomEditTextStyle</item>
+    </style>
+
+    <style name="Theme.TouristGuide.NoActionBar" parent="Theme.TouristGuide">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="CustomButtonStyle">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="CustomEditTextStyle">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+</resources>

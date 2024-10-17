@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tourist Guide</string>
+    <string name="prelogin_title">Welcome, Tourist!</string>
+    <string name="prelogin_subtitle">Explore the best places to visit in town!</string>
+    <string name="prelogin_button">Start Your Journey</string>
+    <string name="journal_title">Your Travel Journal</string>
+    <string name="journal_description">Record your thoughts and places visited here!</string>
+</resources>
